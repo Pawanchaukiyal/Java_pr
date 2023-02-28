@@ -1,0 +1,4 @@
+branch name: master
+alias name : java
+https : https://github.com/Pawanchaukiyal/Java_pr.git
+ssh : git@github.com:Pawanchaukiyal/Java_pr.git
